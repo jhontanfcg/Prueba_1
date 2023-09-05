@@ -5,12 +5,25 @@ html{
     font-family: 'Open sans''sans-serif';
 
 }
+.tituloproyecto{
+ color: blueviolet;
 
 
+}
+
+.beneficios{
+    color: red;
+    font: size 35px;
+    font-family: fantasy;
+    text-shadow:7px 7px 5px black;
+    
+
+}
 h1{
      font-size:60x ;
      text-align: center;
-
+     
+    
 }
 
 p, li {
@@ -25,8 +38,16 @@ html{
     background-color: rgb(182, 72, 168);
 }
 
+Td img{
+    width: 330px;
+}
+
+.imagen1
+{
+    width: 330px;
+}
 body{
-    width:600px;
+    width:800px;
     margin: 0 auto; 
     background-color: rgb(255, 255, 255);
     padding:0 20px 20px 20px;
@@ -36,11 +57,18 @@ body{
 h1{
     margin: 0;
     padding:20px 0;
-    color: #570f53;
+    color: #5b0aff;
     text-shadow: 7px 7px 5px black;
 }
 
 img{
     display:block;
     margin: 0 auto;
+}
+
+ul{
+    color: blue;
+
+
+
 }
