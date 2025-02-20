@@ -15,7 +15,7 @@ html{
     color: red;
     font: size 35px;
     font-family: fantasy;
-    text-shadow:7px 7px 5px black;
+    
     
 
 }
@@ -30,7 +30,7 @@ p, li {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
-    text-shadow: 7px 7px 5px;
+    
    
 }
 
